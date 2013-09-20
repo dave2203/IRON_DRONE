@@ -257,6 +257,11 @@ a:focus {
   *zoom: 1;
 }
 
+.row1 {
+  margin-left: -150px;
+  *zoom: 1;
+}
+
 .row:before,
 .row:after {
   display: table;
@@ -273,6 +278,7 @@ a:focus {
   min-height: 1px;
   margin-left: 20px;
 }
+
 
 .container,
 .navbar-static-top .container,
